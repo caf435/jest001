@@ -1,0 +1,23 @@
+{
+  "name": "jest001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caf435/jest001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caf435/jest001/issues"
+  },
+  "homepage": "https://github.com/caf435/jest001#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
